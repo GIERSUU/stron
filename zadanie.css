@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-color: gray;
+}
+#pudelko{
+    margin: 400px;
+    width: 1000px;
+    height: 300px;
+}
+#logo{
+    height: 110px;
+    background-color: black;
+}
+#menu{
+    background-color: limegreen;
+    float: right;
+    width: 185px;
+    height: 610px;
+    border: 2px;
+    border-style: inset;
+    border-color: black;
+}
+#tresc{
+    
+    height: 600px;
+    width: 800px;
+    height: ;
+    background-color: white;
+    border: 2px;
+    border-style: inset;
+    border-color: black;
+    
+}
+#stopka{
+    background-color: black;
+    clear: both;
+    height: 100px;
+
+    
+}
+iframe{
+    width: 800px;
+    height: 500px;
+}

@@ -1,0 +1,51 @@
+div.czerwony{
+    border-style: solid;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+div.zielony{
+    border-style: solid;
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 56.1%;
+    left: 53.5%;
+}
+div.fioletowy{
+    border-style: solid;
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 56.5%;
+    left: 40%;
+}
+div.niebieski{
+    border-style: solid;
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 30.5%;
+    left: 40%;
+}
+div.żółty{
+    border-style: solid;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 30.5%;
+    left: 53.5%;
+}

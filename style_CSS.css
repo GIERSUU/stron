@@ -1,0 +1,29 @@
+h2 {color:blue}
+p {font-family:Verdana; color:gray; background-color:yellow; font-size:25px; font-style: oblique; font-variant: small-caps;}
+h1 {color:white; letter-spacing: 10px; text-align: center; text-decoration: line-through; text-transform: uppercase; word-spacing: 20px; background-color: blue;}
+body {background-attachment: scroll; background-image: url(k2.jpg); background-repeat: no-repeat;}
+div {border-style: dotted; border-color: red; border-bottom-color: yellow; border-width: 10px;font-family:Verdana;text-align: center; font-size: 20px;font-weight: bolder;}
+a:link, a:visited {color: black; text-decoration: none; background-color: gray; border-style: solid;}
+a:active, a:hover {color: silver;text-decoration: overline;background-color: blue;border-style: dashed; }
+ol {list-style-type: square; list-style-position: outside;list-style-image: url(fwef.img);}
+.ramka{border:dashed gray}
+div#stopka {background-color: black; color: white; font: 50px arial;text-align: center;text-shadow: silver 4px 4px 8px; border: double silver; letter-spacing: 15px;}
+#tabela
+#motor {
+    width: 500px;
+    position: absolute;
+    left: 80px;
+
+    }
+#kwadrat {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 50px;
+}
+#motor_k {
+    width: 400px;
+    position: absolute;
+    left: 40px;
+    top: 40px;
+}	

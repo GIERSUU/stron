@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+#pudelko{
+    margin: auto;
+    width: 400px;
+}
+#logo{
+    height: 100px;
+    background-color: darkgray;
+}
+#menu{
+    background-color: gray;
+}
+#tresc{
+    height: 400px;
+    background-color: white;
+}
+#stopka{
+    background-color: grey;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+}

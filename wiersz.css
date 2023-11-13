@@ -1,0 +1,33 @@
+div#startstorny {
+    background-color: red;
+    color: black;
+    font: 50px arial;
+    text-align: center;
+    text-shadow: silver 4px 4px 8px;
+    border: double silver;
+    letter-spacing: 15px;
+    }
+h4#wiersz {
+    text-align: center;
+    font-size: 20px;
+}
+h1#autor{
+    text-align: center;
+}
+h1#tytuł{
+    text-align: center;
+    font-family: Nosifer;
+    color: red;
+}
+div#Koniecstorny {
+    background-color: black;
+    color: white;
+    font: 50px arial;
+    text-align: center;
+    text-shadow: silver 4px 4px 8px;
+    border: double silver;
+    letter-spacing: 15px;
+    }
+.przymiotnik{color: aqua;font-family: Nosifer;}
+.czasownik{color: gray;font-family: 'Alumni Sans Collegiate One'}
+.rzeczownik{color: green;}
